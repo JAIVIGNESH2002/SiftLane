@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>City Desk</title>
+    <link>https://city.example</link>
+    <description>Local reporting</description>
+    <item>
+      <title>Library opens a new reading room</title>
+      <link>https://city.example/news/library-room?utm_source=newsletter</link>
+      <author>editor@city.example</author>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[A quiet room opens downtown.]]></description>
+      <enclosure url="https://city.example/images/library.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Transit agency adds late train service</title>
+      <link>https://city.example/transit/late-service</link>
+      <pubDate>Tue, 25 Aug 2026 11:00:00 GMT</pubDate>
+      <description>More trains after 10 p.m.</description>
+    </item>
+  </channel>
+</rss>

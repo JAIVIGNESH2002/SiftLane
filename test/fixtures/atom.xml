@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Science Notes</title>
+  <link href="https://science.example/" />
+  <entry>
+    <title>Researchers map a small coral recovery</title>
+    <link href="https://science.example/coral-recovery" />
+    <updated>2026-08-24T09:30:00Z</updated>
+    <author><name>Rina Patel</name></author>
+    <summary>Survey teams found new coral growth.</summary>
+  </entry>
+</feed>

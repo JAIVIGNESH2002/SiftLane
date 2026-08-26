@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Morning Wire</title>
+    <link>https://wire.example</link>
+    <item>
+      <title>Mayor unveils river park plan</title>
+      <link>https://wire.example/politics/river-park?utm_campaign=frontpage</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Officials shared the first phase.</description>
+    </item>
+    <item>
+      <title>Mayor unveils river park plan</title>
+      <link>https://www.wire.example/politics/river-park/</link>
+      <pubDate>Tue, 25 Aug 2026 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>City mayor reveals new riverfront park proposal</title>
+      <link>https://regional.example/news/riverfront-park</link>
+      <pubDate>Tue, 25 Aug 2026 12:20:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
